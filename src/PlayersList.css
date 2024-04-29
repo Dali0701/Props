@@ -1,0 +1,12 @@
+
+.player-list {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .player-card {
+    flex: 0 1 300px; 
+    margin: 20px;
+  }
+  
